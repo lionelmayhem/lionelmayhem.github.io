@@ -1,0 +1,26 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: lionelmayhem
+theme: PaperMod
+
+params:
+    profileMode:
+        enabled: true
+        title: "A Learning Journey"
+        subtitle: "by Lionel"
+    ShowReadingTime: false
+    ShowCodeCopyButtons: true
+    defaultTheme: dark
+    disableThemeToggle: true
+
+menu:
+    main:
+        - name: Posts
+          url: /posts/
+          weight: 1
+        - name: Archives
+          url: /archives/
+          weight: 2
+        - name: About
+          url: /about/
+          weight: 3
