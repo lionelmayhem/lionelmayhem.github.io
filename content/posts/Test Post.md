@@ -1,0 +1,1 @@
+This post is written in Obsidian, pushed to GitHub via a git plugin, deployed automatically using GitHub Actions.
