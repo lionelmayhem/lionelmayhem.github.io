@@ -1,3 +1,8 @@
-This post was written in Obsidian, pushed to GitHub via a git plugin, deployed automatically using GitHub Actions.
+---
+title: Test Post
+date: 2025-01-29
+---
 
-![pepe](/images/pepe.png)
+This post was written in Obsidian, pushed to GitHub via a git plugin, and deployed automatically using GitHub Actions. The image part is a little bit tricky, had to mount an images directory onto our static directory so that both Obsidian and Hugo recognizes it.
+
+![pepe | 300x300 ](/images/pepe.png)
