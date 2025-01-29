@@ -24,3 +24,10 @@ menu:
         - name: About
           url: /about/
           weight: 3
+
+module:
+  mounts:
+    - source: static
+      target: static
+    - source: content/images
+      target: static/images
